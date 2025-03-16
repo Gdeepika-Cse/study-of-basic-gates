@@ -77,12 +77,12 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 
- Developed by: RegisterNumber: 
- DEEPIKA G 212224040060
+Developed by: RegisterNumber: 
+DEEPIKA G 212224040060
  
-**Logic symbol & Truthtable**
-![Screenshot 2025-01-09 102313](https://github.com/user-attachments/assets/0b453ecb-1f70-4558-89cd-fde724057ac3)
-![Screenshot 2025-01-09 102327](https://github.com/user-attachments/assets/ad2ca2f7-7a96-43bf-b00e-e863af6e9ab9)
+ **Logic symbol & Truthtable**
+ ![Screenshot 2025-01-09 102313](https://github.com/user-attachments/assets/0b453ecb-1f70-4558-89cd-fde724057ac3)
+ ![Screenshot 2025-01-09 102327](https://github.com/user-attachments/assets/ad2ca2f7-7a96-43bf-b00e-e863af6e9ab9)
 
 **RTL realization Output:** 
 ![Screenshot 2025-01-09 102345](https://github.com/user-attachments/assets/c7458eb9-c5ce-4e33-b4e4-c2166877d440)
