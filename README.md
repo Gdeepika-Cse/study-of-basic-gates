@@ -1,4 +1,6 @@
 ### study-of-basic-gates
+# NAME.- DEEPIKA G
+# REG NO.- 212224040060
 
 **AIM:** 
 
@@ -88,8 +90,6 @@ xnor(yxnor,a,b);
 
 endmodule
 
-Developed by: RegisterNumber: 
-DEEPIKA G 212224040060
  
  **Logic symbol & Truthtable**
 
